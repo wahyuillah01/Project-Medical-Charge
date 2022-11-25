@@ -1,0 +1,3 @@
+{'age': 26, 'sex': 'male', 'bmi': 22, 'children': 0, 'smoker': 'no', 'region': 'southwest', 'Prediction': 1276.8115601707577, 'Datetime': '2022-11-25'}
+{'age': 25, 'sex': 'male', 'bmi': 22.2, 'children': 0, 'smoker': 'no', 'region': 'southwest', 'Prediction': 1088.5002311306107, 'Datetime': '2022-11-25'}
+{'age': 30, 'sex': 'male', 'bmi': 22.2, 'children': 0, 'smoker': 'no', 'region': 'southwest', 'Prediction': 2358.4594933374246, 'Datetime': '2022-11-25'}
