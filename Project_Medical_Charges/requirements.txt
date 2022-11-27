@@ -25,9 +25,3 @@ SQLAlchemy==1.4.30
 threadpoolctl==3.1.0
 urllib3==1.26.9
 Werkzeug==2.0.2
-
-pip install pyngrok
-
-pip install streamlit
-
-pip install streamlit_ace
